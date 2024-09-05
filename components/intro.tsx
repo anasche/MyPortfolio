@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/anas_profile_photo.png"
+              src="/anas.png"
               alt="Mohammed Anas portrait"
               width="192"
               height="192"
